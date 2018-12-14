@@ -1,0 +1,29 @@
+.div1
+{
+  display:flex;
+  padding: 10px;
+  justify-content:center;
+  font-family: cursive;
+}
+.div2
+{
+  border-radius: 10px;
+  background-color:#A3E4D7;
+  padding: 20px;
+  text-align:center;
+  word-spacing: 50px;
+}
+a
+{
+  text-decoration: none;
+  font-weight:bold;
+  padding: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+a:hover
+{
+ background-color:#909497;
+ padding: 20px;
+}
+

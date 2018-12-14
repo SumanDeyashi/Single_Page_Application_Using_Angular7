@@ -1,0 +1,34 @@
+.div1 {
+  display: flex;
+  justify-content: center;
+}
+button
+{
+width: 50%;
+height: 20%;
+background-color:green;
+color: white;
+font-weight: bold;
+padding: 10px;
+border-radius: 5px;
+cursor: pointer;
+margin-left:50px;
+
+}
+
+table, th, td {
+  border: 2px solid #ff944d;
+  width: 100%;
+  border-radius: 10px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+tr input {
+  height: 50px;
+
+}
+::placeholder
+{
+  color: darkgray;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
