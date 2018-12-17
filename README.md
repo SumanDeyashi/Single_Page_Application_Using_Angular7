@@ -13,7 +13,7 @@ Duration: Nov, 2018 to Dec, 2018.
 
 First thing you have to do create an angular project using "ng new 'project name' " command and for creating components using "ng g c 'component name' " command. 
 
-Here, created four component header, login, registration and credentials. Header component contains navbar of the application, login and registration components will call their respective credentials form using router-outlet. Credentials component contains respective form.
+Here, created four components header, login, registration and credentials. Header component contains navbar of the application, login and registration components will call their respective credentials form using router-outlet. Credentials component contains respective form.
 
 And every thing design with HTML/HTML5 tag and for style used CSS/CSS3 property.
 
