@@ -15,6 +15,6 @@ First thing you have to do create an angular project using "ng new 'project name
 
 Here, created four components header, login, registration and credentials. Header component contains navbar of the application, login and registration components will call their respective credentials form using router-outlet. Credentials component contains respective form.
 
-And every thing design with HTML/HTML5 tag and for style used CSS/CSS3 property.
+And every thing design with HTML/HTML5 tags and for style used CSS/CSS3 properties.
 
 Finally, start the application using "ng serve" command.
